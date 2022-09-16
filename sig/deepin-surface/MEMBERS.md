@@ -16,3 +16,4 @@
 
 - [sudo_free](https://bbs.deepin.org/user/19562)
 - [xiekehui](https://bbs.deepin.org/user/230018)
+- [glory-liao](https://bbs.deepin.org/user/288197)
